@@ -56,12 +56,12 @@ navs:
     label: Home
 
   -
-    href: /spring-boot
-    label: Spring-Boot
+    href: /spring
+    label: Spring
 
   -
-    href: /spring-cloud
-    label: Spring-Cloud
+    href: /java
+    label: Java
 
   -
     href: /blog
@@ -80,20 +80,16 @@ navs:
 labels:
 
   -
-    href: /share/2017/10/01/resource-sharing.html
-    name: 学习资源
+    href: /Java
+    name: Java
 
   -
-    href: https://wx.xiaomiquan.com/mweb/views/joingroup/join_group.html?group_id=881415141512&secret=gg9ch1oco389vka95d6zb18a8x5x804n&user_id=51122215822184
-    name: 知识星球
+    href: /front-end
+    name: 前端
 
   -
     href: /life
     name: 生活故事
-
-  -
-    href: /arch
-    name: 架构之路
     
   -
     href: /jvm
