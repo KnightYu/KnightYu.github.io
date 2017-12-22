@@ -8,7 +8,7 @@ css: ['blog-page.css']
 permalink: /study
 ---
 
-#等待建设。。
+##建设中，敬请期待。。
 
 
 
